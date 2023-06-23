@@ -39,14 +39,20 @@ Explore the sorting algorithms by adjusting the settings and starting the visual
 
 ## Usage
 
-
 Adjust the array size using the provided slider.
+
 Control the sorting speed with the speed slider.
+
 Click the "Randomize Array" button to generate a new random array.
+
 Select a sorting algorithm from the dropdown menu.
+
 Click the "Sort" button to begin the visualization.
+
 Feel free to experiment with different array sizes, sorting speeds, and algorithms to gain a better understanding of how sorting algorithms work.
-Contributing
+
+
+## Contributing
 Contributions are welcome! If you find any issues or would like to add new features or algorithms, please open an issue or submit a pull request.
 
 ## License
